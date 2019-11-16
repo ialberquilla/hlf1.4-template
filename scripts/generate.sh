@@ -1,8 +1,9 @@
 #!/bin/bash
 
 echo "Generating cryto material for peers..."
+[ -d channel-artifacts ] || mkdir channel-artifacts
+
 ../bin/cryptogen generate --config=./crypto-config.yaml
-export FABRIC_CFG_PATH=$PWD
 
 [ -d crypto-config ] || mkdir crypto-config
 
