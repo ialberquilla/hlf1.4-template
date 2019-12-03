@@ -1,4 +1,4 @@
-# hlf1.4.3-template
+# hlf1.4-template
 Hyperledger fabric template for create new networks. Created with two organizations and one channel in Hyperledger Fabric 1.4.
 
 # Installation instructions
@@ -13,5 +13,5 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s 1.4.3
 cd fabric-samples
 
 4. Download the template:
-git clone https://github.com/ialberquilla/hlf1.4.3-template.git
+git clone https://github.com/ialberquilla/hlf1.4-template.git
 
