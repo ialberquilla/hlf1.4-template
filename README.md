@@ -1,5 +1,5 @@
 # hlf1.4-template
-Hyperledger fabric template for create new networks. Created with two organizations and one channel in Hyperledger Fabric 1.4.
+Hyperledger fabric template to create new networks. Created with two organizations and one channel in Hyperledger Fabric 1.4.
 
 # Installation instructions
 
